@@ -3,7 +3,7 @@
 Summary: Generic-purpose lossless compression algorithm by Google
 Name: brotli
 Version: 0.3.0
-Release: 1%{?dist}.ngx
+Release: 1%{?dist}
 URL: https://github.com/google/brotli
 
 Source0: https://github.com/google/brotli/archive/v%{version}.tar.gz#/brotli-v%{version}.tar.gz
